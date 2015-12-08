@@ -13,9 +13,9 @@ h1 {
 }
 
 h2 {
-   color: Black;
+   color: Black; !important;
  }
 
  a {
-   color: Black;
+   color: Black; !important;
  }
