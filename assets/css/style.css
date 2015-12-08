@@ -13,11 +13,12 @@ h1 {
 }
 
 h2 {
-   color: Black; !important;
+   color: Black;
  }
 
  a {
    color: Black; !important;
+   hover: Black;
  }
 
  h3 {
